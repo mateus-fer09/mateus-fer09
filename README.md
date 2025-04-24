@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
-📚 Atualmente estudando JavaScript e React<br>🙋‍♂️ Conhecimento intermediário em HTML5 e CSS3<br>🔎 Em busca do primeiro emprego como Dev Front-end seja em tempo integral ou como freelancer<br>📝 Entre em contato mateusoliveirajoobs@gmail.com
+📚 Atualmente estudando JavaScript e React<br>🙋‍♂️ Conhecimento intermediário em HTML5 e CSS3<br>🔎 Em busca do primeiro emprego como Dev Front-end seja em tempo integral ou como freelancer<br>📝 Entre em contato mateussfer09@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateuss_fer09) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateuss_hen09) 
 
 # 💻 Pilha de Tecnologia:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
